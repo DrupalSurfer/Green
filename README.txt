@@ -2,7 +2,7 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * About Drupal
+ * Default Drupal README file 
  * Configuration and features
  * Installation profiles
  * Appearance
